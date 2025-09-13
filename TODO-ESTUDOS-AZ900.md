@@ -14,31 +14,31 @@
 ## 📚 DOMÍNIO 1: Conceitos de Cloud Computing (25-30%)
 
 ### ☁️ Conceitos Fundamentais de Cloud
-- [ ] **Definição de Cloud Computing**
-  - [ ] O que é computação em nuvem
-  - [ ] Diferenças entre cloud e on-premises
-  - [ ] Vantagens da cloud computing
+- [x] **Definição de Cloud Computing**
+  - [x] O que é computação em nuvem
+  - [x] Diferenças entre cloud e on-premises
+  - [x] Vantagens da cloud computing
 
-- [ ] **Modelos de Responsabilidade Compartilhada**
-  - [ ] Responsabilidades do provedor vs cliente
-  - [ ] Como a responsabilidade varia entre IaaS, PaaS e SaaS
-  - [ ] Exemplos práticos de responsabilidades
+- [x] **Modelos de Responsabilidade Compartilhada**
+  - [x] Responsabilidades do provedor vs cliente
+  - [x] Como a responsabilidade varia entre IaaS, PaaS e SaaS
+  - [x] Exemplos práticos de responsabilidades
 
 ### 🏗️ Modelos de Serviço em Nuvem
-- [ ] **Infrastructure as a Service (IaaS)**
-  - [ ] Características e casos de uso
-  - [ ] Exemplos no Azure (VMs, Storage, Networks)
-  - [ ] Vantagens e desvantagens
+- [x] **Infrastructure as a Service (IaaS)**
+  - [x] Características e casos de uso
+  - [x] Exemplos no Azure (VMs, Storage, Networks)
+  - [x] Vantagens e desvantagens
 
-- [ ] **Platform as a Service (PaaS)**
-  - [ ] Características e casos de uso
-  - [ ] Exemplos no Azure (App Service, SQL Database)
-  - [ ] Vantagens e desvantagens
+- [x] **Platform as a Service (PaaS)**
+  - [x] Características e casos de uso
+  - [x] Exemplos no Azure (App Service, SQL Database)
+  - [x] Vantagens e desvantagens
 
-- [ ] **Software as a Service (SaaS)**
-  - [ ] Características e casos de uso
-  - [ ] Exemplos no Azure (Microsoft 365, Dynamics 365)
-  - [ ] Vantagens e desvantagens
+- [x] **Software as a Service (SaaS)**
+  - [x] Características e casos de uso
+  - [x] Exemplos no Azure (Microsoft 365, Dynamics 365)
+  - [x] Vantagens e desvantagens
 
 ### 🌐 Modelos de Implantação em Nuvem
 - [ ] **Nuvem Pública**
