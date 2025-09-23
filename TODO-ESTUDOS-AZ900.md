@@ -3,11 +3,11 @@
 ## 📋 Lista de Assuntos para Estudar - Microsoft Azure Fundamentals (AZ-900)
 
 ### 🎯 Sobre a Certificação
-- [ ] **Visão Geral da Certificação AZ-900**
-  - [ ] Entender o objetivo da certificação
-  - [ ] Conhecer o formato do exame (40-60 questões, 85 minutos)
-  - [ ] Pontuação mínima: 700 pontos
-  - [ ] Público-alvo: iniciantes em cloud computing
+- [x] **Visão Geral da Certificação AZ-900**
+  - [x] Entender o objetivo da certificação
+  - [x] Conhecer o formato do exame (40-60 questões, 85 minutos)
+  - [x] Pontuação mínima: 700 pontos
+  - [x] Público-alvo: iniciantes em cloud computing
 
 ---
 
@@ -41,69 +41,69 @@
   - [x] Vantagens e desvantagens
 
 ### 🌐 Modelos de Implantação em Nuvem
-- [ ] **Nuvem Pública**
-  - [ ] Características e casos de uso
-  - [ ] Vantagens e limitações
+- [x] **Nuvem Pública**
+  - [x] Características e casos de uso
+  - [x] Vantagens e limitações
 
-- [ ] **Nuvem Privada**
-  - [ ] Características e casos de uso
-  - [ ] Vantagens e limitações
+- [x] **Nuvem Privada**
+  - [x] Características e casos de uso
+  - [x] Vantagens e limitações
 
-- [ ] **Nuvem Híbrida**
-  - [ ] Características e casos de uso
-  - [ ] Azure Arc e soluções híbridas
+- [x] **Nuvem Híbrida**
+  - [x] Características e casos de uso
+  - [x] Azure Arc e soluções híbridas
 
-- [ ] **Multi-cloud**
-  - [ ] Conceitos e estratégias
-  - [ ] Benefícios e desafios
+- [x] **Multi-cloud**
+  - [x] Conceitos e estratégias
+  - [x] Benefícios e desafios
 
 ### 💰 Benefícios da Computação em Nuvem
-- [ ] **Escalabilidade**
-  - [ ] Escalabilidade vertical vs horizontal
-  - [ ] Auto-scaling no Azure
+- [x] **Escalabilidade**
+  - [x] Escalabilidade vertical vs horizontal
+  - [x] Auto-scaling no Azure
 
-- [ ] **Elasticidade**
-  - [ ] Diferença entre escalabilidade e elasticidade
-  - [ ] Exemplos práticos
+- [x] **Elasticidade**
+  - [x] Diferença entre escalabilidade e elasticidade
+  - [x] Exemplos práticos
 
 - [ ] **Agilidade e Velocidade**
   - [ ] Provisão rápida de recursos
   - [ ] Time-to-market reduzido
 
-- [ ] **Disponibilidade e Confiabilidade**
-  - [ ] SLA (Service Level Agreement)
-  - [ ] Alta disponibilidade no Azure
-  - [ ] Disaster recovery
+- [x] **Disponibilidade e Confiabilidade**
+  - [x] SLA (Service Level Agreement)
+  - [x] Alta disponibilidade no Azure
+  - [x] Disaster recovery
 
-- [ ] **Modelo de Preço Pay-as-you-go**
-  - [ ] CAPEX vs OPEX
-  - [ ] Modelos de precificação do Azure
-  - [ ] TCO (Total Cost of Ownership)
+- [x] **Modelo de Preço Pay-as-you-go**
+  - [x] CAPEX vs OPEX
+  - [x] Modelos de precificação do Azure
+  - [x] TCO (Total Cost of Ownership)
 
 ---
 
 ## 🏛️ DOMÍNIO 2: Arquitetura e Serviços do Azure (35-40%)
 
 ### 🌍 Componentes Arquiteturais Principais
-- [ ] **Regiões do Azure**
-  - [ ] O que são regiões
-  - [ ] Como escolher uma região
-  - [ ] Pares de regiões (region pairs)
+- [x] **Regiões do Azure**
+  - [x] O que são regiões
+  - [x] Como escolher uma região
+  - [x] Pares de regiões (region pairs)
 
-- [ ] **Zonas de Disponibilidade**
-  - [ ] Conceito e importância
-  - [ ] Como funcionam
-  - [ ] Serviços que suportam AZ
+- [x] **Zonas de Disponibilidade**
+  - [x] Conceito e importância
+  - [x] Como funcionam
+  - [x] Serviços que suportam AZ
 
-- [ ] **Resource Groups**
-  - [ ] Finalidade e organização
-  - [ ] Boas práticas de organização
-  - [ ] Políticas e permissões
+- [x] **Resource Groups**
+  - [x] Finalidade e organização
+  - [x] Boas práticas de organização
+  - [x] Políticas e permissões
 
-- [ ] **Azure Resource Manager (ARM)**
-  - [ ] Conceitos fundamentais
-  - [ ] Templates ARM
-  - [ ] Hierarquia de recursos
+- [x] **Azure Resource Manager (ARM)**
+  - [x] Conceitos fundamentais
+  - [x] Templates ARM
+  - [x] Hierarquia de recursos
 
 ### 💻 Serviços de Computação
 - [ ] **Azure Virtual Machines**
